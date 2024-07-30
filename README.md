@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nakad-nitin
 - 👀 I’m interested in Web
 - 🌱 I’m currently learning Angular
-- 📫 How to reach me: <a href="darc-coder.github.io" style="text-decoration: none;">darc-coder.github.io</a>
+- 📫 How to reach me: <a href="https://darc-coder.github.io" style="text-decoration: none;">darc-coder.github.io</a>
 
 <!-- ## About Me
 - Location: Gurgaon, India
