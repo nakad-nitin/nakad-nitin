@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nakad-nitin
 - 👀 I’m interested in Web
-- 🌱 I’m currently learning Angular
+- 🌱 I’m Pro in React and currently learning Angular
 - 📫 How to reach me: <a href="https://darc-coder.github.io" style="text-decoration: none;">darc-coder.github.io</a>
 
 <!-- ## About Me
